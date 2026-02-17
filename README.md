@@ -19,6 +19,8 @@ This entire project took 15+ hours, most of which was spent navigating and battl
 <h2> PCB Traces</h2>
 <img src="images/PCB_Footprint.png" style="width:45%; height:auto;">
 <h2> Case</h2>
+The full case .STEP file had to be compressed to a ZIP file for me to upload to GitHub...
+
 <img src="images/Cover.png" style="width:45%; height:auto;">
 <img src="images/Base.png" style="width:45%; height:auto;">
 
