@@ -7,7 +7,7 @@ This entire project took 15+ hours, most of which was spent navigating and battl
 (PS. The actual thing has key caps...)
 
 ### Featuring:
-- RP2040 Microcontroller
+- Xiao RP2040 Microcontroller
 - 12 keys (3x4 Matrix PCB)
 - SSD1306 0.91" OLED display
 - An imaculate 3D printed case designed by yours truly
@@ -21,6 +21,9 @@ This entire project took 15+ hours, most of which was spent navigating and battl
 <h2> Case</h2>
 <img src="images/Cover.png" style="width:45%; height:auto;">
 <img src="images/Base.png" style="width:45%; height:auto;">
+
+### Firmware
+I made it using QMK (all files included), however it has yet to be tested...
 
 ### BOM
 - 1x Xiao RP2040
